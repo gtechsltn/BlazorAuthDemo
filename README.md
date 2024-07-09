@@ -1,4 +1,4 @@
-# BlazorAuthDemo
+# Blazor Server App: Authentication Demo
 
 A demo app explaining Authentication and Authorization in a Blazor server app using Microsoft Entra ID and Microsoft Graph.
 Full explanation of the code can be found at: https://medium.com/@varu87/authentication-and-authorization-in-a-blazor-server-app-using-microsoft-entra-id-and-microsoft-3e9f5f32bd53
